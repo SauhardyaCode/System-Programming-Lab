@@ -1,7 +1,6 @@
 ; Problem 3: FCFS Disk Scheduling Algorithm
 ; Calculates total head movement for a given request queue
 
-JUMPS
 .MODEL SMALL
 .STACK 100H
 

@@ -4,7 +4,6 @@
 ; - Hardcoded password
 ; - 3 retries limit before system lock
 
-JUMPS
 .MODEL SMALL
 .STACK 100H
 

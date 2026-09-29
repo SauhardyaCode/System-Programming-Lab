@@ -1,7 +1,6 @@
 ; Problem 4: Sort an Array of N Elements
 ; Takes N from user, reads N elements, and sorts them using Bubble Sort
 
-JUMPS
 .MODEL SMALL
 .STACK 100H
 
